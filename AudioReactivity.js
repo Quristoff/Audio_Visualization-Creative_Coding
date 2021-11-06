@@ -9,7 +9,7 @@ var lowPass;
 
 function preload() {
   soundFormats("wav");
-  fall = loadSound("Fall.wav");
+  fall = loadSound("Fall.mp3");
   printer = loadImage("Printer.jpg");
 }
 
